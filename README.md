@@ -1,5 +1,4 @@
 # hello-world
-First time using Github
-
-Mathematics major that will soon graduate and become a programmer.
-Trying to expand my toolbox.
+Hello! My name is Kenechi Oti, and I am an aspiring Data Scientist.
+In this repository you will find some problems that I have solved
+from my undergraduate degree in Mathematics. 
